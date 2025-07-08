@@ -16,7 +16,7 @@
 
 ## Живая демонстрация
 
-[Открыть сайт](https://snejokk.github.io/ItSolutions/)
+[Открыть сайт](https://snejokk.github.io/FoxWebsite/)
 
 ## Технологии
 
